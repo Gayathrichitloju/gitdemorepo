@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "github"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
