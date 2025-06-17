@@ -28,6 +28,10 @@
 				"type": "String"
 			},
 			{
+				"name": "FileName",
+				"type": "decimal"
+			},
+			{
 				"name": "Format",
 				"type": "String"
 			}
